@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Cześć 👋, Jestem Michał</h1>
+<h3 align="center">O mnie</h3>
 
-<!--
-**Michas223/Michas223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Aktualnie uczę się języka Python
+- 💻 Pracuje nad moim tajemnym projektem na platformie FiveM
 
-Here are some ideas to get you started:
+<h3 align="center">Używane języki i biblioteki</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lua
+- MySQL
+- JSQuery
+- HTML 5
+- CSS 3
+- JavaScript
